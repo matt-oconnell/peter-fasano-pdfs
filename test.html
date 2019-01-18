@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      margin: 0 42px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .top-img {
+      width: 100%;
+      margin-top: 12px;
+    }
+    .btm-img {
+      margin: 0 auto;
+      display: block;
+      position: absolute;
+      bottom: 15px;
+      left: 0;
+      right: 0;
+      top: 750px;
+      height: auto !important;
+      width: 230px !important;
+    }
+    h1 {
+      color: #0f4584;
+      font-weight:  100;
+      margin-top: 10px;
+    }
+    p {
+      margin: 0;
+      font-size: 13px;
+    }
+  </style>
+</head>
+<body>
+  <img class="top-img" src="{{img}}" />
+  <h1>{{patternName}}</h1>
+  <div>
+    <p>{{sku}}</p>
+    <p>{{desc}}</p>
+    <p>{{dimensions}}</p>
+    {{also}}
+  </div>
+  <img class="btm-img" src="file:///Users/matthewoconnell1/Desktop/1/pf/pf-pdf/img/pf-logo.png" />
+</body>
+</html>
