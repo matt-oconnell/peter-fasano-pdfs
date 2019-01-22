@@ -1,0 +1,707 @@
+# of Links: 87 
+
+[Lauren-Check] 
+	 correct tile count: true 
+	true --- 182417---Amethyst
+	true --- 182423---Manila
+	true --- 182424---Cashmere
+	true --- 182416---Boudoir
+	true --- 182432---Mill-Pond
+	true --- 182439---Coral-Reef
+	true --- 182401---Wedgewood
+	true --- 182436---Soot
+	true --- 182412---Nocturne
+
+[Inverness] 
+	 correct tile count: true 
+	true --- 182129---Frost
+	true --- 182126---Sandalwood
+	true --- 182133---Arrowhead
+	true --- 182120---Mesa
+	true --- 182102---Admiral-Blue
+	true --- 182112---Nocturne
+
+[Celestine] 
+	 correct tile count: true 
+	true --- 182039---Coral-Reef
+	true --- 182023---Manila
+	true --- 182024---Cashmere
+	true --- 182024---Cashmere
+	true --- 182001---Wedgewood
+	true --- 182017---Amethyst
+	true --- 182032---Mill-Pond
+	true --- 182036---Soot
+	true --- 182012---Nocturne
+
+[Afton] 
+	 correct tile count: true 
+	true --- 181905---Forget-Me-Not
+	true --- 181908---Tidal
+	true --- 181909---Haze
+	true --- 181927---Suede
+	true --- 181934---Dust
+
+[Samburu] 
+	 correct tile count: true 
+	true --- 182537---Midnight
+	true --- 182532---Nocturne
+	true --- 182511---Indigo
+	true --- 182530---Grass
+	true --- 182518---Mischief
+	true --- 182538---Carrot
+	true --- 182503---Bahama
+	true --- 182517---Amethyst
+
+[Labyrinth] 
+	 correct tile count: true 
+	true --- 182313---Skylight
+	true --- 182316---Boudoir
+	true --- 182317---Amethyst
+	true --- 182318---Mischief
+	true --- 182303---Bahama
+	true --- 182311---Indigo
+
+[Kalimba] 
+	 correct tile count: true 
+	true --- 182217---Amethyst
+	true --- 182206---Gentian
+	true --- 182203---Bahama
+	true --- 182222---Snapdragon
+	true --- 182224---Cashmere
+	true --- 182224---Cashmere
+	true --- 182223---Manila
+
+[Wickfield] 
+	 correct tile count: true 
+	true --- 182607---Gossamer
+	true --- 182625---Linen
+	true --- 182621---Shadow
+	true --- 182621---Sedona
+	true --- 182615---Twilight
+
+[Tatiana] 
+	 correct tile count: true 
+	true --- TA670W---Fog
+	true --- TA673W---Chambray
+	true --- TA672W---Blush
+
+[Lauren-Check] 
+	 correct tile count: true 
+	true --- 182417---Amethyst
+	true --- 182423---Manila
+	true --- 182424---Cashmere
+	true --- 182416---Boudoir
+	true --- 182432---Mill-Pond
+	true --- 182432---Mill-Pond
+	true --- 182401---Wedgewood
+	true --- 182436---Soot
+	true --- 182412---Nocturne
+
+[Surrey] 
+	 correct tile count: true 
+	true --- 52001---Slate-Blue
+	true --- 52009---Silver-on-Putty
+	false --- 52008---Sam's-Pink
+	true --- 52002---Lichen
+	true --- 52005---Ecru
+	true --- 52004---Drab
+
+[Inverness] 
+	 correct tile count: true 
+	true --- 182129---Frost
+	true --- 182126---Sandalwood
+	true --- 182133---Arrowhead
+	true --- 182120---Mesa
+	true --- 182102---Admiral-Blue
+	true --- 182112---Nocturne
+
+[Tides] 
+	 correct tile count: true 
+	true --- 100626---Glacier
+	true --- 100627---Sonic-Blue
+	true --- 100623---Smoke
+	true --- 100623---Smoke
+	true --- 100622---Midnight
+	true --- 100624---Gum-Ball
+	true --- 100621---Espresso
+
+[Celestine] 
+	 correct tile count: true 
+	true --- 182039---Coral-Reef
+	true --- 182023---Manila
+	true --- 182024---Cashmere
+	true --- 182016---Boudoir
+	true --- 182001---Wedgewood
+	true --- 182017---Amethyst
+	true --- 182032---Mill-Pond
+	true --- 182036---Soot
+	true --- 182012---Nocturne
+
+[Trentino] 
+	 correct tile count: true 
+	true --- 8406---Poppy-(Glazed)
+	true --- 8402---Sand
+	true --- 8409---Putty-(Glazed)
+	true --- 8403---Ivory
+	true --- 8404---Aqua-Stripe-(Glazed)
+
+[Tulsi] 
+	 correct tile count: true 
+	true --- 89027---Indigo-Light-Blue
+
+[Up,-Up-&-Away] 
+	 correct tile count: true 
+	true --- 5001---Primary
+
+[Vriksa] 
+	 correct tile count: true 
+	true --- 90020---Indigo
+	true --- 90050---Heathered-Gray
+	true --- 90040---Camel
+
+[Vriksa-Block] 
+	 correct tile count: true 
+	true --- 91020---Indigo
+	true --- 91050---Heathered-Gray
+	true --- 91040---Camel
+
+[Afton] 
+	 correct tile count: true 
+	true --- 181905---Forget-Me-Not
+	true --- 181908---Tidal
+	true --- 181909---Haze
+	true --- 181927---Suede
+	true --- 181934---Dust
+
+[Dristi] 
+	 correct tile count: true 
+	true --- 77020---Indigo
+
+[Samburu] 
+	 correct tile count: true 
+	true --- 182537---Midnight
+	true --- 182532---Nocturne
+	true --- 182511---Indigo
+	true --- 182530---Grass
+	true --- 182518---Mischief
+	true --- 182538---Carrot
+	true --- 182503---Bahama
+	true --- 182517---Amethyst
+
+[Wallpaper] 
+	 correct tile count: true 
+	true --- 22002---Black/White
+	true --- 22004---Silver/White
+	true --- 22003---Gold/White
+	true --- 22001---Red/White
+
+[Key-Biscayne] 
+	 correct tile count: true 
+	true --- 6506---Blue
+	true --- 6505--Ivory
+
+[Bates-Stripe] 
+	 correct tile count: true 
+	true --- 74002---Blue/Green
+	true --- 74004---Coastal
+	true --- 74003---Green/Sage
+	true --- 74001---Pink/Rose
+	true --- 74005---Sepia
+
+[Mirage] 
+	 correct tile count: true 
+	true --- 100227---Sonic-Blue
+	true --- 100223---Smoke
+	true --- 100225---Parakeet
+	true --- 100225---Parakeet
+	true --- 100224---Gumball
+	true --- 100226---Glacier
+	true --- 100221---Espresso
+
+[Labyrinth] 
+	 correct tile count: true 
+	true --- 182313---Skylight
+	true --- 182316---Boudoir
+	true --- 182317---Amethyst
+	true --- 182318---Mischief
+	true --- 182303---Bahama
+	true --- 182311---Indigo
+
+[Bina] 
+	 correct tile count: true 
+	true --- 76020---Indigo
+	true --- 76040---Camel
+	true --- 76050---Heathered-Gray
+
+[Campbell] 
+	 correct tile count: true 
+	true --- CP307W---Cinnabar
+	true --- CP303W---Hydrangea
+	true --- CP213W---Fog/Taupe
+
+[Campbell-Stripe] 
+	 correct tile count: true 
+	true --- 58011---Aqua
+	true --- 58008---Powder-Blue
+	true --- 58005---Petal
+	true --- 58001---Greige
+	true --- 58002---Cream
+	true --- 58012---Celery
+
+[The-Coop] 
+	 correct tile count: true 
+	true --- 19001---Charcoal/Gray
+	true --- 19002---Maple/Brick
+	true --- 19003---Green
+
+[Box-Leaf] 
+	 correct tile count: true 
+	true --- 26102---Slate-Blue
+	true --- 26002---Sky
+	true --- 26004---Peony
+	true --- 26005---Lavender
+	true --- 26005---Lavender
+	true --- 26104---Drab
+	false --- 26108---Sam's-Pink
+
+[Dogwood] 
+	 correct tile count: true 
+	true --- DW114W---Drab
+	true --- DW111W---Olivine
+	true --- DW103W---Hydrangea
+
+[Dorset] 
+	 correct tile count: true 
+	true --- DT670W---Fog
+	true --- DT673---Chambray
+	true --- DT672W---Blush
+
+[Dotty] 
+	 correct tile count: true 
+	true --- 53002---Charcoal
+	true --- 53007---White-on-Snow
+	true --- 53003---Slate-Blue
+	false --- 53001---Sam's-Pink
+	true --- 53005---Ecru
+
+[Roopa] 
+	 correct tile count: true 
+	true --- 87020---Indigo
+
+[Fiddlehead] 
+	 correct tile count: true 
+	true --- FH123W---Coral
+	true --- FH104W---Bayberry
+	true --- FH208W---Slate-Green/Taupe
+	true --- FH111W---Olivine
+	true --- FH175W---Ocean
+	true --- FH179W---Navy
+	true --- FH179W---Navy
+
+[Grand-Shangri-La] 
+	 correct tile count: true 
+	true --- GSL123W---Coral
+	true --- GSL204W---Bayberry
+
+[Kalimba] 
+	 correct tile count: true 
+	true --- 182217---Amethyst
+	true --- 182206---Gentian
+	true --- 182203---Bahama
+	true --- 182222---Snapdragon
+	true --- 182224---Cashmere
+	true --- 182207---Gossamer
+	true --- 182223---Manila
+
+[Gridlock] 
+	 correct tile count: true 
+	true --- 100125---Parakeet
+	true --- 100127---Sonic-Blue
+	true --- 100123---Smoke
+	true --- 100122---Midnight
+	true --- 100124---Gumball
+	true --- 100126---Glacier
+	true --- 100121---Espresso
+
+[Gosford] 
+	 correct tile count: true 
+	true --- 181723---Manila
+	true --- 181750---Heathered-Gray
+	true --- 181701---Wedgewood
+	true --- 181732---Mill-Pond
+	true --- 181724	Cashmere
+
+[Indian-Gameboard] 
+	 correct tile count: true 
+	true --- 78020---Indigo
+	true --- 78050---Heathered-Gray
+
+[Indiennes] 
+	 correct tile count: true 
+	true --- 79027---Indigo-Light-Blue
+	true --- 79070---Light-Blue
+	true --- 79040---Camel
+
+[Jaya] 
+	 correct tile count: true 
+	true --- 81020---Indigo
+	true --- 81050---Heathered-Gray
+
+[Kinomi] 
+	 correct tile count: true 
+	true --- 70002---Blue/Green
+	true --- 70001---Beige/Gray
+	true --- 70003---Buff/Copper
+	true --- 70013---Midnight
+
+[Library-Strie] 
+	 correct tile count: true 
+	true --- 57010---Fog
+	true --- 57009---Sky
+	true --- 57013---Peridot
+	true --- 57006---Melon
+	true --- 57001---Greige
+
+[Brompton] 
+	 correct tile count: true 
+	true --- 180230---Wedgewood
+	true --- 180231---Gull
+	true --- 180232---Powder
+	true --- 180233---Blossom
+	true --- 180234---Citrus
+	true --- 180235---Buttercup
+	true --- 180236---Harbor
+
+[Stellae] 
+	 correct tile count: true 
+	true --- 181505---Ballet
+	true --- 181801---Wedgewood
+	true --- 181835---Seaglass
+	true --- 181823---Manila
+	true --- 181840---Aster
+	true --- 181824---Cashmere
+	true --- 1905---Gold-on-Charcoal
+
+[Jaipur] 
+	 correct tile count: true 
+	true --- 181010---Daffodil
+	true --- 181011---Atlantic
+	true --- 181012---Berry
+	true --- 181013---Papaya
+	true --- 181014---Ancho
+	true --- 181015---Capri-Blue
+	true --- 181016---Ochre
+	true --- 181004---Beacon-Hill
+	true --- 181019---Crocus
+	true --- 181007---Gossamer
+	true --- 181023---Manila
+	true --- 181001---Twilight
+
+[Leopardo] 
+	 correct tile count: true 
+	true --- 181101---Wedgewood
+	true --- 181103---Heathered-Gray
+	true --- 181104---Powder
+	true --- 181104---Powder
+	true --- 181106---Oat
+
+[Pasha] 
+	 correct tile count: true 
+	true --- 181415---Capri-Blue
+	true --- 181401---Daffodil
+	true --- 181402---Pigeon
+	true --- 181404---Powder
+	true --- 181405---Ballet
+	true --- 181406---Oat
+	true --- 181411---Atlantic
+	true --- 181412---Berry
+	true --- 181427---Sonic-Blue
+
+[Talia] 
+	 correct tile count: true 
+	true --- 181613---Papaya
+	true --- 181610---Daffodil
+	true --- 181600---Storm
+	true --- 181615---Capri-Blue
+
+[Ellsworth] 
+	 correct tile count: true 
+	true --- 180602---Stone
+	true --- 180600---Cinder
+	true --- 180603---Coastal
+	true --- 180605---Ballet
+	true --- 180606---Elderberry
+	true --- 180607---Capri-Blue
+
+[Lido] 
+	 correct tile count: true 
+	true --- 56025---Wedgewood/Periwinkle
+	true --- 56021---Pink/Rose
+	true --- 56023---Green/Sage
+	true --- 56027---Gray/Mocha
+	true --- 56024---Coastal/Seafoam
+	true --- 56022---Blue/Green
+	true --- 56001---White-on-Snow
+
+[Ankara] 
+	 correct tile count: true 
+	true --- 180104---Powder
+	true --- 180101---Wedgewood
+	true --- 180103---Stone
+	true --- 180105---Oat
+	true --- 180106---Ballet
+
+[Camden-Stripe] 
+	 correct tile count: true 
+	true --- 180304---Capri-Blue
+	true --- 180301---Ballet
+	true --- 180303---Coastal
+	true --- 180300---Cinder
+
+[Georgia-Stripe] 
+	 correct tile count: true 
+	true --- 180701---Wedgewood
+	true --- 180702---Ash
+	true --- 180705---Ballet
+	true --- 180706---Oat
+	true --- 180707---Stone
+
+[Libby’s-Stripe] 
+	 correct tile count: true 
+	true --- 181316---Spruce
+	true --- 181305---Ballet
+	true --- 181310---Danube
+
+[Pindi-Stripe] 
+	 correct tile count: true 
+	true --- 181512---Berry
+	true --- 181510---Daffodil
+	true --- 181515---Capri-Blue
+	true --- 181511---Ash
+
+[Calvin-&-Lewis] 
+	 correct tile count: true 
+	true --- 32004---Apple
+	true --- 32003---Snow
+	true --- 32002---Poppy
+	true --- 32002---Poppy
+
+[Hollywood] 
+	 correct tile count: true 
+	true --- 4201---White
+	true --- 4202---Kraft
+	true --- 4203---Blue
+	true --- 4204---Biscuit
+
+[Lockhart] 
+	 correct tile count: true 
+	true --- 75004---Coastal
+	true --- 75001---Pink/Rose
+	true --- 75002---Blue/Green
+	true --- 75005---Sepia
+	true --- 75003---Green/Sage
+
+[Ardley] 
+	 correct tile count: true 
+	true --- 73001---Pink/Rose
+	true --- 73002---Blue/Green
+	true --- 73003---Green/Sage
+	true --- 73004---Coastal
+	true --- 73005---Sepia
+
+[Margi] 
+	 correct tile count: true 
+	true --- MG111W---Olivine
+	true --- MG220W---Chocolate/Taupe
+	true --- MG208W---Slate-Green/Taupe
+	true --- MG175W---Ocean
+	true --- MG210W---Ink/Taupe
+	true --- MG103W---Hydrangea
+	true --- MG107W---Cinnabar
+
+[Angelina] 
+	 correct tile count: true 
+	true --- 44130---Cinder
+	true --- 44131---Ballet
+	true --- 44132---Powder
+	true --- 44133---Heathered-Gray
+	true --- 44134---Oat
+	true --- 44134---Oat
+	true --- 44136---Wedgewood
+
+[Maile] 
+	 correct tile count: true 
+	true --- 38008---Lichen
+	true --- 38001---Cocoa
+	true --- 38003---White-on-Snow
+	true --- 38005---Snow-on-Drab
+	true --- 38007---Slate-Blue
+	false --- 38012---Sam's-Pink
+	true --- 38011---Drab
+
+[Meadow] 
+	 correct tile count: true 
+	true --- 61005---Peat-(Glazed)
+	true --- 61001---Portobello-(Glazed)
+	true --- 61004---Haze-(Glazed)
+	true --- 61003---Drab-(Glazed)
+
+[Milky-Way] 
+	 correct tile count: true 
+	true --- 7002---White/Kraft
+	true --- 7006---White-on-Snow
+
+[Montclair-Strie] 
+	 correct tile count: true 
+	true --- 9611---Ink
+	true --- 9606---Azure
+	true --- 9612---Cornflower
+	true --- 9602---Lime
+	true --- 9608---Mushroom
+	true --- 9610---Portobello
+	true --- 9605---Sage
+
+[Monterey-Bay] 
+	 correct tile count: true 
+	true --- 6903---Baltic/White
+	true --- 6901---Baltic
+	true --- 6904---Sky/White
+
+[Mount-Desert-Island] 
+	 correct tile count: true 
+	true --- 2301---Black/White
+
+[Newbury] 
+	 correct tile count: true 
+	true --- 7803---Verona
+	true --- 7801---Beige
+
+[Off-Shoot] 
+	 correct tile count: true 
+	true --- 100422---Midnight
+	true --- 100427---Sonic-Blue
+	true --- 100423---Smoke
+	true --- 100425---Parakeet
+	true --- 100424---Gumball
+	true --- 100426---Glacier
+	true --- 100421---Espresso
+
+[Olana] 
+	 correct tile count: true 
+	true --- 72003---Seafoam/Silver
+	true --- 72001---Champagne/Silver
+	true --- 72002---Champagne/Moss
+
+[Palazzo-Orlando] 
+	 correct tile count: true 
+	true --- 20004---Seaglass
+	true --- 20003---White
+	true --- 20005---Powder
+	true --- 20050---Heathered-Gray
+	true --- 20006---Ballet
+
+[Persia] 
+	 correct tile count: true 
+	true --- PR177W---Tangerine
+	true --- PR208W---Slate-Green
+	true --- PR175W---Ocean
+	true --- PR110W---Ink
+	true --- PR157W---Asparagus
+
+[Piccha] 
+	 correct tile count: true 
+	true --- 84020---Indigo
+	true --- 84050---Heathered-Gray
+
+[Pintade] 
+	 correct tile count: true 
+	true --- 85020---Indigo
+	true --- 85040---Camel
+
+[Randy’s-Ribbons] 
+	 correct tile count: true 
+	true --- 55006---Slate-Blue
+	true --- 55004---Lime
+	false --- 55001---Sam's-Pink
+	true --- 55003---Orchid
+	true --- 55002---Lichen
+	true --- 55005---Ecru
+	true --- 55005---Ecru
+
+[Ravi] 
+	 correct tile count: true 
+	true --- 86020---Indigo
+	true --- 86020---Indigo
+	true --- 86050---Heathered-Gray
+
+[Wickfield] 
+	 correct tile count: true 
+	true --- 182607---Gossamer
+	true --- 182625---Linen
+	true --- 182621---Shadow
+	true --- 182621---Sedona
+	true --- 182615---Twilight
+
+[Reverse-Off-Shoot] 
+	 correct tile count: true 
+	true --- 100526---Glacier
+	true --- 100521---Espresso
+	true --- 100527---Sonic-Blue
+	true --- 100523---Smoke
+	true --- 100525---Parakeet
+	true --- 100522---Midnight
+	true --- 100524---Gumball
+
+[Hudson] 
+	 correct tile count: true 
+	true --- 180915---Mulberry
+	true --- 180901---Wedgewood
+	true --- 180903---Heathered-Gray
+	true --- 180905---Ballet
+	true --- 180906---Oat
+	true --- 180913---Midnight
+	true --- 180904---Powder
+	true --- 180908---Seaglass
+
+[Shangri-La] 
+	 correct tile count: true 
+	true --- SL101W---Aqua
+	true --- SL114W---Apple
+	true --- SL115W---Ballet
+	true --- SL125W---Periwinkle
+	true --- SL150W---Heathered-Gray
+	true --- SL103W---Hydrangea
+	true --- SL107W---Cinnabar
+	true --- SL204W---Bayberry
+
+[Chesapeake] 
+	 correct tile count: true 
+	true --- 180401---Wedgewood
+	true --- 180402---Ash
+	true --- 180403---Heathered-Gray
+	true --- 180404---Powder
+	true --- 180405---Ballet
+	true --- 180406---Oat
+	true --- 180510---Oriental-Blue
+	true --- 180511---Daffodil
+	true --- 180512---Elderberry
+	true --- 180513---Midnight
+
+[Sintra] 
+	 correct tile count: true 
+	true --- 88027---Indigo-Light-Blue
+	true --- 88027---Indigo-Light-Blue
+	true --- 88050---Heathered-Gray
+
+[Spatter-Dash] 
+	 correct tile count: true 
+	true --- 50027---Sonic-Blue
+	true --- 50021---Espresso
+	true --- 50025---Parakeet
+	true --- 50022---Midnight/Smoke
+	true --- 50024---Gumball
+	true --- 50026---Glacier
+	true --- 50001---Metallic/Kraft
+
+["Surrey","Box-Leaf","Dotty","Maile","Randy’s-Ribbons"]
+Miss Count:5

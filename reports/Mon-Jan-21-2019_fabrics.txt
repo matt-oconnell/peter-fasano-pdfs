@@ -1,0 +1,1058 @@
+# of Links: 116 
+
+[Samburu] 
+	 correct tile count: true 
+	true --- SBU37---Midnight
+	true --- SBU11---Indigo
+	true --- SBU12---Nocturne
+	true --- SBU30---Grass
+	true --- SBU18---Mischief
+	true --- SBU38---Carrot
+	true --- SBU3---Bahama
+	true --- SBU17---Amethyst
+
+[Inverness] 
+	 correct tile count: true 
+	true --- INV2---Admiral-Blue
+	true --- INV12---Nocturne
+	true --- INV20---Mesa
+	true --- INV33---Arrowhead
+	true --- INV26---Sandalwood
+	true --- INV29---Frost
+
+[Labyrinth] 
+	 correct tile count: true 
+	true --- LYR17---Amethyst
+	true --- LYR18---Mischief
+	true --- LYR16---Boudoir
+	true --- LYR13---Skylight
+	true --- LYR11--Indigo
+	true --- LYR3---Bahama
+	true --- LYR30---Grass
+
+[Afton] 
+	 correct tile count: true 
+	true --- AFT5---Forget-Me-Not
+	true --- AFT34---Dust
+	true --- AFT27---Suede
+	true --- AFT9---Haze
+	true --- AFT8---Tidal
+
+[Celestine] 
+	 correct tile count: true 
+	true --- CST39---Coral-Reef
+	true --- CST24---Cashmere
+	true --- CST16---Boudoir
+	true --- CST23---Manila
+	true --- CST32---Mill-Pond
+	true --- CST17---Amethyst
+	true --- CST1---Wedgewood
+	true --- CST36---Soot
+	true --- CST12---Nocturne
+
+[Kalimba] 
+	 correct tile count: true 
+	true --- KLM24---Cashmere
+	true --- KLM10---Ice-Blue
+	true --- KLM23---Manila
+	true --- KLM22---Snapdragon
+	true --- KLM17---Amethyst
+	true --- KLM6---Gentian
+	true --- KLM3---Bahama
+	true --- KLM31---Limoncello
+	true --- KLM11---Indigo
+
+[Lauren-Check] 
+	 correct tile count: true 
+	true --- LBC12-Nocturne
+	true --- LBC36---Soot
+	true --- LBC39---Coral-Reef
+	true --- LBC39---Coral-Reef
+	true --- LBC32---Mill-Pond
+	true --- LBC17---Amethyst
+	true --- LBC23---Manila
+	true --- LBC16---Boudoir
+	true --- LBC33---Cashmere
+
+[Twiggy] 
+	 correct tile count: true 
+	true --- TWY37---Midnight
+	true --- TWY11---Indigo
+	true --- TWY12---Nocturne
+	true --- TWY38---Carrot
+	true --- TWY18---Mischief
+	true --- TWY30---Grass
+	true --- TWY14---Turquoise
+	true --- TWY17---Amethyst
+
+[Trotwood] 
+	 correct tile count: true 
+	true --- TRW19---Crocus
+	true --- TRW4---Beacon-Hill
+	true --- TRW28---Java
+	true --- TRW40---Dusk
+	true --- TRW7---Gossamer
+
+[Wickfield] 
+	 correct tile count: true 
+	true --- WK19---Crocus
+	true --- WK35---Java
+	true --- WK21---Sedona
+	true --- WK15---Twilight
+	true --- WK7---Gossamer
+	true --- WK35---Shadow
+	true --- WK25---Linen
+
+[Indiennes] 
+	 correct tile count: true 
+	true --- IND27---Indigo-Light-Blue/Oyster
+	true --- IND65---Paprika-Otter/Sand
+	true --- IND56---Otter-Paprika/Sand
+	true --- IND52---Otter-Indigo/Sand
+	true --- IND73---Light-Blue-Lagoon/Oyster
+
+[Talia] 
+	 correct tile count: true 
+	true --- TAL2---Papaya
+	true --- TAL1---Daffodil
+	true --- TAL3---Storm
+	true --- TAL4---Capri-Blue
+
+[Samburu] 
+	 correct tile count: true 
+	true --- SBU37---Midnight
+	true --- SBU11---Indigo
+	true --- SBU12---Nocturne
+	true --- SBU30---Grass
+	true --- SBU18---Mischief
+	true --- SBU18---Mischief
+	true --- SBU3---Bahama
+	true --- SBU17---Amethyst
+
+[Inverness] 
+	 correct tile count: true 
+	true --- INV2---Admiral-Blue
+	true --- INV12---Nocturne
+	true --- INV20---Mesa
+	true --- INV33---Arrowhead
+	true --- INV26---Sandalwood
+	true --- INV29---Frost
+
+[Labyrinth] 
+	 correct tile count: true 
+	true --- LYR17---Amethyst
+	true --- LYR18---Mischief
+	true --- LYR18---Mischief
+	true --- LYR13---Skylight
+	true --- LYR11--Indigo
+	true --- LYR3---Bahama
+	true --- LYR30---Grass
+
+[Afton] 
+	 correct tile count: true 
+	true --- AFT5---Forget-Me-Not
+	true --- AFT34---Dust
+	true --- AFT27---Suede
+	true --- AFT9---Haze
+	true --- AFT8---Tidal
+
+[Celestine] 
+	 correct tile count: true 
+	true --- CST39---Coral-Reef
+	true --- CST24---Cashmere
+	true --- CST16---Boudoir
+	true --- CST23---Manila
+	true --- CST32---Mill-Pond
+	true --- CST17---Amethyst
+	true --- CST1---Wedgewood
+	true --- CST36---Soot
+	true --- CST12---Nocturne
+
+[Kalimba] 
+	 correct tile count: true 
+	true --- KLM24---Cashmere
+	true --- KLM10---Ice-Blue
+	true --- KLM23---Manila
+	true --- KLM22---Snapdragon
+	true --- KLM17---Amethyst
+	true --- KLM6---Gentian
+	true --- KLM3---Bahama
+	true --- KLM31---Limoncello
+	true --- KLM11---Indigo
+
+[Lauren-Check] 
+	 correct tile count: true 
+	true --- LBC12-Nocturne
+	true --- LBC36---Soot
+	true --- LBC39---Coral-Reef
+	true --- LBC39---Coral-Reef
+	true --- LBC32---Mill-Pond
+	true --- LBC17---Amethyst
+	true --- LBC23---Manila
+	true --- LBC16---Boudoir
+	true --- LBC33---Cashmere
+
+[Twiggy] 
+	 correct tile count: true 
+	true --- TWY37---Midnight
+	true --- TWY11---Indigo
+	true --- TWY12---Nocturne
+	true --- TWY38---Carrot
+	true --- TWY18---Mischief
+	true --- TWY30---Grass
+	true --- TWY14---Turquoise
+	true --- TWY17---Amethyst
+
+[Trotwood] 
+	 correct tile count: true 
+	true --- TRW19---Crocus
+	true --- TRW4---Beacon-Hill
+	true --- TRW28---Java
+	true --- TRW40---Dusk
+	true --- TRW7---Gossamer
+
+[Wickfield] 
+	 correct tile count: true 
+	true --- WK19---Crocus
+	true --- WK35---Java
+	true --- WK21---Sedona
+	true --- WK15---Twilight
+	true --- WK7---Gossamer
+	true --- WK7---Gossamer
+	true --- WK25---Linen
+
+[Shangri-La] 
+	 correct tile count: true 
+	true --- SL1001101---Aqua
+	true --- SL1001208---Slate-Green
+	true --- SL1001208---Slate-Green
+	true --- SL1001205---Orchid
+	true --- SL1001103---Hydrangea
+	true --- SL1001306---Gold/Hemp
+	true --- SL1001123---Coral
+	true --- SL1001107---Cinnabar
+	true --- SL1001109---Biscuit
+	true --- SL1001204---Bayberry
+
+[Dristi] 
+	 correct tile count: true 
+	true --- DST20---Indigo/Oyster
+
+[Jaya] 
+	 correct tile count: true 
+	true --- JYA20---Indigo/Oyster
+
+[Piccha] 
+	 correct tile count: true 
+	true --- PCH20---Indigo/Oyster
+
+[Fiddlehead] 
+	 correct tile count: true 
+	true --- FH1005180---Berry
+	true --- FH1005123---Coral
+	true --- FH1005208---Slate-Green/Taupe
+	true --- FH1005111---Olivine
+	true --- FH1005175---Ocean
+	true --- FH1005179---Navy
+	true --- FH1005103---Hydrangea
+	true --- FH1005116---Harvest
+	true --- FH1005178---Flame
+	true --- FH1005104---Bayberry
+	true --- FH1005210---Ink/Taupe
+	true --- FH1005207---Cinnabar/Taupe
+	true --- FH1005220---Chocolate/Taupe
+
+[Vriksa] 
+	 correct tile count: true 
+	true --- VKA40---Camel/Oyster
+	true --- VKA30---Lagoon/Oyster
+	true --- VKA20---Indigo/Oyster
+	true --- VKA51---Otter/Sand
+	true --- VKA61---Paprika/Sand
+
+[Pintade] 
+	 correct tile count: true 
+	true --- PTD20---Indigo/Oyster
+	true --- PTD61---Paprika/Sand
+
+[Sintra] 
+	 correct tile count: true 
+	true --- STR27---Indigo/Light-Blue/AL-Oyster
+	true --- STR51---Otter/Sand
+	true --- STR40---Camel/Oyster
+
+[Vriksa-Block] 
+	 correct tile count: true 
+	true --- VKB30---Lagoon/Oyster
+	true --- VKB20---Indigo/Oyster
+	true --- VKB51---Otter/Sand
+
+[Roopa] 
+	 correct tile count: true 
+	true --- RPA20---Indigo/Oyster
+	true --- RPA30---Lagoon/Oyster
+	true --- RPA40---Camel/Oyster
+
+[Bina] 
+	 correct tile count: true 
+	true --- BNA20---Indigo/Oyster
+	true --- BNA40---Camel/Oyster
+	true --- BNA40---Camel/Oyster
+	true --- BNA61---Paprika/Sand
+
+[Ravi] 
+	 correct tile count: true 
+	true --- RAV20---Indigo/Oyster
+	true --- RAV30---Lagoon/Oyster
+	true --- RAV40---Camel/Oyster
+	true --- RAV61---Paprika/Sand
+	true --- RAV51---Otter/Sand
+
+[Angelina] 
+	 correct tile count: true 
+	true --- AN30---Cinder
+	true --- AN3---Heathered-Gray
+	true --- AN34---Oat
+	true --- AN36---Wedgewood
+	true --- AN35---Seagrass
+	true --- AN32---Powder
+	true --- AN31---Ballet
+	true --- AN28---Crema
+
+[Ellsworth] 
+	 correct tile count: true 
+	true --- ELL3---Stone
+	true --- ELL6---Cinder
+	true --- ELL5---Elderberry
+	true --- ELL4---Coastal
+	true --- ELL2---Capri-Blue
+	true --- ELL1---Ballet
+
+[Pindi-Stripe] 
+	 correct tile count: true 
+	true --- PIN3---Berry
+	true --- PIN1---Daffodil
+	true --- PIN2---Atlantic
+	true --- PIN4---Capri-Blue
+	true --- PIN5---Papaya
+	true --- PIN6---Ancho
+
+[Brompton] 
+	 correct tile count: true 
+	true --- BT35---Buttercup
+	true --- BT34---Citrus
+	true --- BT33---Blossom
+	true --- BT32---Powder
+	true --- BT32---Powder
+	true --- BT31---Gull
+	true --- BT36---Harbor
+
+[Leopardo] 
+	 correct tile count: true 
+	true --- LPD13---Wedgewood
+	true --- LPD12---Heathered-Gray
+	true --- LPD11---Powder
+	true --- LPD14---Oat
+	true --- LPD10---Ballet
+	true --- LPD26---Glacier
+	true --- LPD27---Sonic-Blue
+	true --- LPD25---Parakeet
+	true --- LPD24---Gumball
+	true --- LPD20---Daffodil
+	true --- LPD23---Midnight/Smoke
+
+[Ardley] 
+	 correct tile count: true 
+	true --- ADL1---Pink/Rose
+	true --- ADL2---Blue/Green
+	true --- ADL2---Blue/Green
+	true --- ADL5---Sepia
+	true --- ADL4---Costal
+
+[Hudson] 
+	 correct tile count: true 
+	true --- HUD1---Wedgewood
+	true --- HUD1---Wedgewood
+	true --- HUD3---Heathered-Gray
+	true --- HUD4---Powder
+	true --- HUD5---Oat
+	true --- HUD6---Mulberry
+	true --- HUD7---Ballet
+	true --- HUD8---Midnight
+
+[Indian-Gameboard] 
+	 correct tile count: true 
+	true --- IGM20---Indigo/Oyster
+	true --- IGM40---Camel/Oyster
+
+[Chatsworth] 
+	 correct tile count: true 
+	true --- CTW1---Spruce
+	true --- CTW2---Peat
+	true --- CTW3---Oriental-Blue
+	true --- CTW4---Sorbet
+
+[Chesapeake] 
+	 correct tile count: true 
+	true --- CHP1---Wedgewood
+	true --- CHP2---Ash
+	true --- CHP4---Powder
+	true --- CHP5---Ballet
+	true --- CHP6---Oat
+	true --- CHP3---Heathered-Gray
+	true --- CHP10---Oriental-Blue
+	true --- CHP12---Elderberry
+	true --- CHP13---Midnight
+	true --- CHP11---Daffodil
+
+[Hillevi-–-Hemp] 
+	 correct tile count: true 
+	true --- HLV33---Carbon
+	true --- HLV32---Dune
+	true --- HLV31---Cherry
+	true --- HLV30---Baltic
+
+[Hillevi-–-Sheer] 
+	 correct tile count: true 
+	true --- HLV10---Clay/Cream
+
+[Jaipur] 
+	 correct tile count: true 
+	true --- JP10---Daffodil
+	true --- JP13---Papaya
+	true --- JP15---Capri-Blue
+	true --- JP12---Berry
+	true --- JP11---Atlantic
+	true --- JP14---Ancho
+	true --- JP16---Ochre
+
+[Hillevi-–-Linen] 
+	 correct tile count: true 
+	true --- HLV5---Red
+	true --- HLV2---Yellow-(50/50%-cotton/linen)
+	true --- HLV1---Green
+	true --- HLV4---Buff
+	true --- HLV6---Blue
+	true --- HLV3---Aqua
+
+[Georgia-Stripe] 
+	 correct tile count: true 
+	true --- GRG1---Wedgewood
+	true --- GRG6---Ash
+	true --- GRG2---Heathered-Gray
+	true --- GRG3---Powder
+	true --- GRG4---Oat
+	true --- GRG4---Oat
+	true --- GRG7---Stone
+	true --- GRG8---Seaglass
+
+[Janesh] 
+	 correct tile count: true 
+	true --- JAN29---Indigo/White
+
+[Kinomi] 
+	 correct tile count: true 
+	true --- KM7---Teal/Cranberry/Fog
+	true --- KM3---Teal/Cranberry/Ivory
+	true --- KM2---Mustard/Bittersweet/Ivory
+	true --- KM6---Leaf/Persimmon/Mist
+	true --- KM5---Buff/Copper/Tan
+	true --- KM1---Bark/Black/Flax
+	true --- KM4---Almond/Teal/Tan
+
+[Kusum] 
+	 correct tile count: true 
+	true --- KU1---Eli-Blue
+	true --- KU6---Straw
+	true --- KU5---Spice
+	true --- KU4---Mascara
+	true --- KU3---Chocolate
+	true --- KU2---Cypress
+
+[Pasha] 
+	 correct tile count: true 
+	true --- PSA1---Daffodil
+	true --- PSA2---Atlantic
+	true --- PSA3---Berry
+	true --- PSA4---Sonic-Blue
+	true --- PSA5---Capri-Blue
+	true --- PSA6---Ballet
+	true --- PSA7---Pigeon
+
+[Libby’s-Stripe] 
+	 correct tile count: true 
+	true --- LB10---Spruce
+	true --- LB15---Danube
+	true --- LB14---Capri-Blue
+	true --- LB13---Oat
+	true --- LB12---Ballet
+	true --- LB11---Peat
+
+[Camden-Stripe] 
+	 correct tile count: true 
+	true --- CAM3---Coastal
+	true --- CAM4---Sonic-Blue
+	true --- CAM1---Ballet
+	true --- CAM2---Stone
+	true --- CAM5---Cinder
+	true --- CAM6--Elderberry
+
+[Ankara] 
+	 correct tile count: true 
+	true --- ANK5---Ballet
+	true --- ANK1--Wedgewood
+	true --- ANK2---Stone
+	true --- ANK3---Powder
+	true --- ANK4---Oat
+
+[Maile] 
+	 correct tile count: true 
+	true --- ML3---Peony
+	true --- ML7---Pumpkin/Chili
+	true --- ML6---Olive/Acorn
+	true --- ML5---Ocean/Sky
+	true --- ML1---Natural
+	true --- ML1---Natural
+	true --- ML8---Indigo/Olive
+	true --- ML2---Flax
+
+[Margi] 
+	 correct tile count: true 
+	true --- MG1010103---Hydrangea
+	true --- MG1010208---Slate-Green/Taupe
+	true --- MG1010111---Olivine
+	true --- MG1010210---Ink/Taupe
+	true --- MG1010116---Harvest
+	true --- MG1010175---Ocean-(52/48%-linen/cotton)
+	true --- MG1010176---Cobalt-(52/48%-linen/cotton)
+	true --- MG1010178---Flame-(52/48%-linen/cotton)
+	true --- MG1010207---Cinnabar/Taupe
+	true --- MG1010107---Cinnabar
+	true --- MG1010220---Chocolate/Taupe
+
+[Mozia] 
+	 correct tile count: true 
+	true --- MZ13---Pesca
+	true --- MZ3---Tumbleweed
+	true --- MZ5---Saffron
+	true --- MZ17---Oro
+	true --- MZ4---Mood
+	true --- MZ14---Marino
+	true --- MZ11---Malva
+	true --- MZ10---Grigio
+	true --- MZ12---Giallo
+	true --- MZ1---Fog
+	true --- MZ16---Erba
+	true --- MZ18---Crema
+	true --- MZ2---Celestial
+	true --- MZ6---Bamboo
+	true --- MZ15---Azzuro
+
+[Tulum] 
+	 correct tile count: true 
+	true --- TLM2---Mulberry
+	true --- TLM1---Sonic-Blue
+	true --- TLM3---Glacier
+	true --- TLM4---Oat
+	true --- TLM5---Smoke
+	true --- TLM6---Parakeet
+	true --- TLM7---Blossom
+
+[Grand-Shangri-La] 
+	 correct tile count: true 
+	true --- GSL1001204---Bayberry
+	true --- GSL1001123---Coral
+
+[Kali] 
+	 correct tile count: true 
+	true --- KLI10---Bisque
+	true --- KLI7---Verde
+	true --- KLI5---Toffee
+	true --- KLI4---Rust
+	true --- KLI4---Rust
+	true --- KLI3---Plum
+	true --- KLI6---Malt
+	true --- KLI9---Cyan
+	true --- KLI8---Corn
+	true --- KLI1---Chocolate
+
+[Persia] 
+	 correct tile count: true 
+	true --- PR1018177---Tangerine
+	true --- PR1018175---Ocean
+	true --- PR1018157---Asparagus
+	true --- PR1018208---Slate-Green
+	true --- PR1018110---Ink
+
+[Bargello] 
+	 correct tile count: true 
+	true --- BAR4---Coral
+	true --- BAR3---Blue
+	true --- BAR5---Turquoise
+	true --- BAR6---Acorn
+	true --- BAR7---Bay/Cream
+	true --- BAR8---Charcoal/Cream
+
+[Provincetown] 
+	 correct tile count: true 
+	true --- PVT33---Dune
+	true --- PVT33---Carbon
+	true --- PVT31---Cherry
+	true --- PVT30---Baltic
+
+[Tatiana] 
+	 correct tile count: true 
+	true --- TA1019670---Fog
+	true --- TA1019673---Chambray
+	true --- TA1019671---Parchment
+	true --- TA1019672---Blush
+
+[Dorset] 
+	 correct tile count: true 
+	true --- DT1021670---Fog
+	true --- DT1021671---Parchment
+	true --- DT1021673---Chambray
+	true --- DT1021672---Blush
+
+[Lockhart] 
+	 correct tile count: true 
+	true --- LHT4---Coastal
+	true --- LHT5---Sepia
+	true --- LHT1---Pink/Rose
+	true --- LHT3---Green/Sage
+	true --- LHT2---Blue/Green
+
+[Lido] 
+	 correct tile count: true 
+	true --- LD25---Wedgwood/Periwinkle
+	true --- LD24---Coastal/Seafoam
+	true --- LD22---Blue/Green
+	true --- LD21---Pink/Rose
+	true --- LD23---Green/Sage
+	true --- LD27---Gray/Mocha
+	true --- LD26---Gray/Apricot
+
+[Bates-Stripe] 
+	 correct tile count: true 
+	true --- BSR4---Coastal
+	true --- BSR2---Blue/Green
+	true --- BSR1---Pink/Rose
+	true --- BSR3---Green/Sage
+	true --- BSR5---Sepia
+
+[Alford-Stripe] 
+	 correct tile count: true 
+	true --- AF3---Peony
+	true --- AF1---Natural
+	true --- AF2---Flax
+
+[Box-Leaf] 
+	 correct tile count: true 
+	true --- BF1---Bisque
+	true --- BF2---Petal
+	true --- BF3---Lagoon
+	true --- BF5---Orchid
+
+[Sophy] 
+	 correct tile count: true 
+	true --- SP1025189---Fawn
+	true --- SP1025708---Slate-Green
+	true --- SP1025288---Shale
+	true --- SP1025103---Hydrangea
+	true --- SP1025787---Heron
+	true --- SP1025284---Crimson
+	true --- SP1025186---Chive
+	true --- SP1025104---Bayberry
+	true --- SP1025285---Apple
+
+[Monterey-Bay] 
+	 correct tile count: true 
+	true --- MY2---Baltic/White
+	true --- MY1---Baltic
+
+[Campbell] 
+	 correct tile count: true 
+	true --- CP1006176---Cobalt
+	true --- CP1006320---Chocolate/Hemp
+	true --- CP1006316---Harvest/Hemp
+	true --- CP1006308---Slate-Green/Hemp
+	true --- CP1006307---Cinnabar/Hemp
+	true --- CP1006303---Hydrangea/Hemp
+	true --- CP1006222---Dove/Taupe
+	true --- CP1006213---Fog/Taupe
+	true --- CP1006211---Olivine/Taupe
+	true --- CP1006209---Biscuit/Taupe
+	true --- CP1006204---Bayberry/Taupe
+	true --- CP1006177---Tangerine
+
+[Canvas-Stripe] 
+	 correct tile count: true 
+	true --- CS1007303---Hydrangea
+	true --- CS1007317---Umber
+	true --- CS1007316---Harvest
+	true --- CS1007308---Slate-Green
+	true --- CS1007307---Cinnabar
+
+[Barrington-Stripe] 
+	 correct tile count: true 
+	true --- BR1003407---Cinnabar/Cream
+	true --- BR1003515---Marsh/Dove
+	true --- BR1003513---Fog/Dove
+	true --- BR1003508---Slate-Green/Dove
+	true --- BR1003418---Dark-Olive/Cream
+	true --- BR1003416---Harvest/Cream
+	true --- BR1003415---Marsh/Cream
+	true --- BR1003410---Ink/Cream
+	true --- BR1003408---Slate-Green/Cream
+
+[Chatham-Stripe] 
+	 correct tile count: true 
+	true --- CH1---Easton-Blue
+
+[Cape-Stripe] 
+	 correct tile count: true 
+	true --- CPS33---Carbon
+	true --- CPS32--Dune
+	true --- CPS31---Cherry
+	true --- CPS30---Baltic
+
+[Baswa] 
+	 correct tile count: true 
+	true --- BA1---Fog
+	true --- BA2---Celestial
+	true --- BA3---Tumbleweed
+	true --- BA4---Mood
+	true --- BA5---Saffron
+	true --- BA6---Bamboo
+
+[Chamba] 
+	 correct tile count: true 
+	true --- CHM3---Plum
+	true --- CHM10---Bisque
+	true --- CHM9---Cyan
+	true --- CHM7---Verde
+	true --- CHM6---Malt
+	true --- CHM5---Toffee
+	true --- CHM4---Rust
+	true --- CHM2---Pool
+	true --- CHM1---Chocolate
+	true --- CHM8---Corn
+
+[Tapa] 
+	 correct tile count: true 
+	true --- TP3---Lapis
+	true --- TP4---Spice
+	true --- TP2---Pewter
+	true --- TP1---Malt
+	true --- TP5---Carbon
+
+[Key-Biscayne] 
+	 correct tile count: true 
+	true --- KB14---Blue
+	true --- KB7---Ivory
+	true --- KB6---Lime
+
+[Dogwood] 
+	 correct tile count: true 
+	true --- DW1009114---Drab
+	true --- DW1009102---Pear
+	true --- DW1009111---Olivine
+	true --- DW1009113---Marsh
+	true --- DW1009116---Harvest
+	true --- DW1009123---Coral
+	true --- DW1009103---Hydrangea
+
+[Crewelwork] 
+	 correct tile count: true 
+	true --- CW3---Blue
+	true --- CW8---Charcoal/Cream
+	true --- CW7---Bay/Cream
+	true --- CW6---Acorn
+	true --- CW5---Turquoise
+	true --- CW4---Coral
+
+[Sarpa] 
+	 correct tile count: true 
+	true --- SRP8---Corn
+	true --- SRP7---Verde
+	true --- SRP5---Toffee
+	true --- SRP4---Rust
+	true --- SRP2---Pool
+	true --- SRP3---Plum
+	true --- SRP6---Malt
+	true --- SRP9---Cyan
+	true --- SRP1---Chocolate
+	true --- SRP10---Bisque
+
+[Kori] 
+	 correct tile count: true 
+	true --- KOR3---Aqua
+	true --- KOR2---Yellow-(50/50%-cotton/linen)
+	true --- KOR6---Blue
+	true --- KOR5---Red
+	true --- KOR4---Buff
+	true --- KOR1---Green
+
+[Kalahari] 
+	 correct tile count: true 
+	true --- KL10---Chestnut
+	true --- KL8---Teal
+	true --- KL13---Saffron
+	true --- KL12---Mood
+	true --- KL15---Mink
+	true --- KL5---Malt
+	true --- KL6---Lilac
+	true --- KL6---Lilac
+	true --- KL14---Bamboo
+	true --- KL7---Asparagus
+	true --- KL9---Spice
+
+[Argus] 
+	 correct tile count: true 
+	true --- AG1023310---Ink
+	true --- AG1023-382---Sky
+	true --- AG1023208---Slate-Green
+	true --- AG1023217---Umber
+	true --- AG1023281---Toast
+
+[Tulsi] 
+	 correct tile count: true 
+	true --- TUL27---Indigo-Light-Blue/Oyster
+	true --- TUL56---Otter-Paprika/Sand
+	true --- TUL52---Otter-Indigo/Sand
+	true --- TUL37---Lagoon-Light-Blue/Oyster
+	true --- TUL46---Camel-Paprika/Oyster
+
+[Spatter-Dash] 
+	 correct tile count: true 
+	true --- SD27---Sonic-Blue
+	true --- SD25---Parakeet
+	true --- SD22---Midnight/Smoke
+	true --- SD24---GumBall
+	true --- SD26---Glacier
+	true --- SD21---Espresso
+	true --- SD5---Multi
+	true --- SD1---Gold/Neutral
+
+[Tides] 
+	 correct tile count: true 
+	true --- TDE24---GumBall
+	true --- TDE27---Sonic-Blue
+	true --- TDE23---Smoke
+	true --- TDE25---Parakeet
+	true --- TDE22---Midnight
+	true --- TDE22---Midnight
+	true --- TDE21---Espresso
+
+[Gridlock] 
+	 correct tile count: true 
+	true --- GRD25---Parakeet
+	true --- GRD27---Sonic-Blue
+	true --- GRD23---Smoke
+	true --- GRD22---Midnight
+	true --- GRD24---Gumball
+	true --- GRD26---Glacier
+	true --- GRD21---Espresso
+
+[Mirage] 
+	 correct tile count: true 
+	true --- MRG23---Smoke
+	true --- MRG27---Sonic-Blue
+	true --- MRG25---Parakeet
+	true --- MRG25---Parakeet
+	true --- MRG25---Parakeet
+	true --- MRG26---Glacier
+	true --- MRG26---Glacier
+
+[Mirage-Stripe] 
+	 correct tile count: true 
+	true --- MST27---Sonic-Blue
+	true --- MST23---Smoke
+	true --- MST23---Smoke
+	true --- MST22---Midnight
+	true --- MST24---GumBall
+	true --- MST26---Glacier
+	true --- MST21---Espresso
+
+[Off-Shoot] 
+	 correct tile count: true 
+	true --- FSH24---Gumball
+	true --- FSH27---Sonic-Blue
+	true --- FSH23---Smoke
+	true --- FSH25---Parakeet
+	true --- FSH22---Midnight
+	true --- FSH26---Glacier
+	true --- FSH21---Espresso
+
+[Reverse-Off-Shoot] 
+	 correct tile count: true 
+	true --- RVF26---Glacier
+	true --- RVF27---Sonic-Blue
+	true --- RVF23---Smoke
+	true --- RVF25---Parakeet
+	true --- RVF22---Midnight
+	true --- RVF24---Gumball
+	true --- RVF21---Espresso
+
+[String-Theory] 
+	 correct tile count: true 
+	true --- STG3---Cool-Blues
+	true --- STG2---Warm-Reds
+	true --- STG1---Gold-Neutral
+
+[Zebra] 
+	 correct tile count: true 
+	true --- ZB2---Fog
+	true --- ZB6---Mink
+	true --- ZB4---Saffron
+	true --- ZB3---Mood
+	true --- ZB1---Fawn
+	true --- ZB5---Bamboo
+
+[Isadora] 
+	 correct tile count: true 
+	true --- SDR33---Carbon
+	true --- SDR30---Baltic
+	true --- SDR31---Cherry
+	true --- SDR32---Dune
+
+[Darta] 
+	 correct tile count: true 
+	true --- DAR4---Rust
+	true --- DAR10---Bisque
+	true --- DAR9---Cyan
+	true --- DAR8---Corn
+	true --- DAR7---Verde
+	true --- DAR6---Malt
+	true --- DAR5---Toffee
+	true --- DAR3---Plum
+	true --- DAR2---Pool
+	true --- DAR1---Chocolate
+
+[Tinay] 
+	 correct tile count: true 
+	true --- TY2---Blue/Green
+	true --- TY3---Teal/Cocoa
+	true --- TY1---Pink/Green
+
+[Mosaik] 
+	 correct tile count: true 
+	true --- MSK3---Aqua
+	true --- MSK2---Yellow-(50/50%-cotton/linen)
+	true --- MSK5---Red
+	true --- MSK1---Green
+	true --- MSK8---Gold
+	true --- MSK8---Gold
+	true --- MSK6---Blue
+
+[Double-Dotty] 
+	 correct tile count: true 
+	true --- DBL30---Baltic
+	true --- DBL32---Dune
+	true --- DBL33---Carbon
+	true --- DBL31---Cherry
+
+[Zanzibar] 
+	 correct tile count: true 
+	true --- ZA33---Carbon
+	true --- ZA33---Carbon
+	true --- ZA31---Cherry
+	true --- ZA30---Baltic
+
+[Artisan-Linen] 
+	 correct tile count: true 
+	true --- AL4---Flax
+	true --- AL1---Oyster
+	true --- AL2---Natural
+	true --- AL2---Natural
+
+[Laundered-Linen] 
+	 correct tile count: true 
+	true --- LA1---Natural
+	true --- LA4---Flax
+	true --- LA5---Peony
+
+[Washed-Linen] 
+	 correct tile count: true 
+	true --- WLN1---Oyster
+
+[Everywhere-Linen] 
+	 correct tile count: true 
+	true --- EV2---Sable
+	true --- EV3---Salone
+	true --- EV1---Oyster
+	true --- EV6---Chestnut-Brown
+	true --- EV5---Café-Noir
+
+[Basket-Linen] 
+	 correct tile count: true 
+	true --- BL2---Flax
+	true --- BL1---Oyster
+
+[Delta-Linen] 
+	 correct tile count: true 
+	true --- DEL27---River
+	true --- DEL24---Thistle
+	true --- DEL29---Wengé
+	true --- DEL26---Walnut
+	true --- DEL20---Thatch
+	true --- DEL28---Sandalwood
+	true --- DEL23---Palm
+	true --- DEL21---Nutmeg
+	true --- DEL25---Fire
+	true --- DEL22---Bark
+
+[Cornwall] 
+	 correct tile count: true 
+	true --- CO1020673---Chambray
+	true --- CO1020670---Fog
+	true --- CO1020671---Parchment
+	true --- CO1020672---Blush
+	true --- CO1020674---Vanilla
+	true --- CO1020676---White
+	true --- CO1020678---Oyster
+
+[Tupelo] 
+	 correct tile count: true 
+	true --- TU1011305---Orchid/Hemp
+	true --- TU1011317---Umber/Hemp
+	true --- TU1011308---Slate-Green/Hemp
+	true --- TU1011311---Olivine/Hemp
+	true --- TU1011315---Marsh/Hemp
+	true --- TU1011310---Ink/Hemp
+	true --- TU1011303---Hydrangea/Hemp
+	true --- TU1011316---Harvest/Hemp
+	true --- TU1011313---Fog/Hemp
+	true --- TU1011378---Flame/Hemp
+	true --- TU1011314---Drab/Hemp
+	true --- TU1011400---Cream/Hemp
+	true --- TU1011307---Cinnabar/Hemp
+	true --- TU1011301---Aqua/Hemp
+
+[Hamilton-Velvet] 
+	 correct tile count: true 
+	true --- HV101754---Salmon
+	true --- HV101758---Plum
+	true --- HV101753---Oak
+	true --- HV101756---Boxwood
+	true --- HV101755---Atlantic
+	true --- HV101757---Asparagus
+
+[Venetian-Velvet] 
+	 correct tile count: true 
+	true --- VV3---Porcini
+	true --- VV7---Pompeii
+	true --- VV8---Pistachio
+	true --- VV4---Mineral
+	true --- VV2---Latte
+	true --- VV2---Latte
+	true --- VV9---Cypress
+	true --- VV10---Adriatic
+
+[Corcho] 
+	 correct tile count: true 
+	true --- CR1---Light-Cork
+	true --- CR2---Dark-Cork
+
+[]
+Miss Count:0

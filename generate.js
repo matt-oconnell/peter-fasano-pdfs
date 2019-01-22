@@ -2,34 +2,36 @@ const puppeteer = require("puppeteer");
 const fs = require("fs");
 const pdf = require("html-pdf");
 const html = fs.readFileSync("test.html", "utf8");
+const moment = require("moment");
 
 const TYPE = "wallcoverings";
+const WHITE_LIST = [
+  "Surrey",
+  "Box-Leaf",
+  "Dotty",
+  "Maile",
+  "Randy’s-Ribbons"
+].map(name => {
+  return name
+    .toLowerCase()
+    .split("'")
+    .join("");
+});
+const SKU_TYPE_TITLE = true;
 
-async function getAllLinksFromGrid(page, isNewArrivals) {
-  if (isNewArrivals) {
-    return await page.evaluate(() => {
-      const links = [];
-      const newArrivals = document.getElementsByClassName("featured-items");
-      const productEls = newArrivals[0].getElementsByClassName(
-        "woocommerce-LoopProduct-link"
-      );
-      for (var i = 0; i < productEls.length; i++) {
-        links.push(productEls[i].getAttribute("href").split("/?")[0]);
-      }
-      return links;
-    });
-  } else {
-    return await page.evaluate(() => {
-      const links = [];
-      const productEls = document.getElementsByClassName(
-        "woocommerce-LoopProduct-link"
-      );
-      for (var i = 0; i < productEls.length; i++) {
-        links.push(productEls[i].getAttribute("href").split("/?")[0]);
-      }
-      return links;
-    });
-  }
+const startDate = moment();
+
+async function getAllLinksFromGrid(page) {
+  return await page.evaluate(() => {
+    const links = [];
+    const productEls = document.getElementsByClassName(
+      "woocommerce-LoopProduct-link"
+    );
+    for (var i = 0; i < productEls.length; i++) {
+      links.push(productEls[i].getAttribute("href").split("/?")[0]);
+    }
+    return links;
+  });
 }
 
 async function scrapePage(page) {
@@ -79,7 +81,7 @@ async function clickColorways(page) {
 
   for (let i of iterator) {
     await page.click(`.colorway-tile:nth-of-type(${i})`);
-    await page.waitFor(1);
+    await page.waitFor(100);
     scrapedData = await scrapePage(page);
     scrapedDataArr.push(scrapedData);
   }
@@ -106,19 +108,44 @@ async function createPdf(scrapedData) {
     format: "Letter",
     quality: "100"
   };
-  const fileName = `${scrapedData.patternName}-${scrapedData.sku
-    .split(" - ")
-    .join("-")}`.replace("/", ":");
-  await pdf.create(replacedHtml, options).toFile(
-    `./pdfs-${TYPE}-${new Date()
-      .toDateString()
-      .split(" ")
-      .join("-")}/${fileName}.pdf`,
-    function(err, res) {
-      if (err) return console.log(err);
-      console.log(res);
-    }
-  );
+
+  console.log(scrapedData.sku);
+
+  let fileName = "";
+
+  if (SKU_TYPE_TITLE) {
+    fileName = scrapedData.sku.split(" ")[0];
+  } else {
+    fileName = `${scrapedData.patternName}-${scrapedData.sku
+      .split(" - ")
+      .join("-")}`
+      .split("/")
+      .join("")
+      .split("'")
+      .join("")
+      .split("’")
+      .join("")
+      .split("–")
+      .join("-")
+      .replace(/\s/g, "")
+      .replace(/\s/g, "")
+      .replace(/\s/g, "")
+      .replace(/\s/g, "");
+  }
+
+  return new Promise(resolve => {
+    pdf.create(replacedHtml, options).toFile(
+      `./2pdfs-${TYPE}-${new Date()
+        .toDateString()
+        .split(" ")
+        .join("-")}/${fileName}.pdf`,
+      function(err, res) {
+        if (err) return console.log(err);
+        console.log(res.filename);
+        resolve();
+      }
+    );
+  });
 }
 
 (async () => {
@@ -128,17 +155,36 @@ async function createPdf(scrapedData) {
   await page.goto(`https://peterfasano.com/${TYPE}/`);
 
   await page.waitForSelector(".woocommerce-LoopProduct-link");
-  const links = await getAllLinksFromGrid(page, true);
+  const links = await getAllLinksFromGrid(page);
 
   for (link of links) {
-    await page.goto(link);
-    await page.waitForSelector(".jsZoom");
+    console.log(link);
 
-    const scrapedDataArr = await clickColorways(page);
-    for (scrapedData of scrapedDataArr) {
-      await createPdf(scrapedData);
+    if (
+      WHITE_LIST.some(substring => !!link.includes(substring)) ||
+      !WHITE_LIST.length
+    ) {
+      console.log("STARTING: " + link);
+
+      await page.goto(link);
+      await page.waitForSelector(".jsZoom");
+
+      const scrapedDataArr = await clickColorways(page);
+
+      const pdfReqs = scrapedDataArr.map(scrapedData => {
+        return createPdf(scrapedData);
+      });
+
+      await Promise.all(pdfReqs);
+
+      console.log("DONE: " + link);
     }
   }
+
+  const endDate = moment();
+  const secondsDiff = endDate.diff(startDate, "seconds");
+
+  console.log("Time to run: " + secondsDiff + " s");
 
   await browser.close();
 })();
